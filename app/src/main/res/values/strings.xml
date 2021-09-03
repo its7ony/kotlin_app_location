@@ -1,0 +1,10 @@
+<resources>
+    <!-- Common !-->
+    <string name="app_name">applocation</string>
+    <string name="package_name">com.antoniolabra.applocation</string>
+
+    <!-- Permissions Messages !-->
+    <string name="denied_permissions_message_hint">Necesitamos ciertos permisos para continuar</string>
+    <string name="granted_permissions_message_hint">Empecemos</string>
+
+</resources>
